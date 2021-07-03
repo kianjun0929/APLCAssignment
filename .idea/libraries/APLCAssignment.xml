@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="APLCAssignment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/APLCAssignment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
